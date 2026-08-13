@@ -2,6 +2,7 @@
 
 `factorial.go - For each number it is necessary to calc the factorial `
 `throttler_rate_limiter.go - Competitive task limiter`
+`join_channels.go - Function that will merge all the data from channels into one and return it`
 
 # Немного теории
 
